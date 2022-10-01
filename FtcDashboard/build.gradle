@@ -1,5 +1,9 @@
 buildscript {
+<<<<<<< Updated upstream
     ext.dashboard_version = '0.4.6'
+=======
+    ext.dashboard_version = '0.4.4'-SNAPSHOT
+>>>>>>> Stashed changes
 }
 
 plugins {
